@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt
+credentials.json  filter=crypt diff=crypt
